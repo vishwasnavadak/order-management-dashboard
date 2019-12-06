@@ -1,4 +1,4 @@
-# order-management-dashboard
+# Order-management-dashboard
 This app is buit using express and react which converts csv data into table format.
 
 Live here: https://ravi-dashboard.herokuapp.com
